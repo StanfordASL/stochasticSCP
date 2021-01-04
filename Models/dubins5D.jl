@@ -1,11 +1,10 @@
-# ------------------------------------------------------------------
-# -   Model for the Dubins5D - T. Lew + R. Bonalli 08/2020   -
-# ------------------------------------------------------------------
+# ----------------------------
+# -   Model for the Dubins5D -
+# ----------------------------
 
 using Distributions
 using Random
 Random.seed!(1234)
-# using DifferentialEquations
 
 export Dubins5D
 

@@ -18,4 +18,4 @@ This code was tested with Julia 1.4.1. Experiments can be reproduced by running 
 
 ## Reference
 
-R. Bonalli, T. Lew, and M. Pavone, ["Sequential Convex Programming For Non-Linear Stochastic Optimal Control,"](https://arxiv.org/abs/2009.05182) in Arxiv, 2020.
+R. Bonalli, T. Lew, and M. Pavone, ["Sequential Convex Programming For Non-Linear Stochastic Optimal Control,"](https://arxiv.org/abs/2009.05182), ESAIM: Control, Optimisation & Calculus of Variations, vol. 28, no. 64, 2022.
